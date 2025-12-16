@@ -6,3 +6,4 @@ dataset insurance.csv in archive(3)
 
 
 to run Kmeans streamlit : streamlit run kmeanapp.py
+to run KNN streamlit : streamlit run appK.py
